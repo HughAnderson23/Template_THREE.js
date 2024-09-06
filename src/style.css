@@ -3,9 +3,15 @@
     padding:0;
 }
 
+html,
+body
+{
+    overflow: hidden; /* Prevents users from scrolling past canvas/render scene */
+}
+
 .webgl {
 position: fixed;
 top: 0;
 left: 0;
-outline: none; /*Gets rid of blue outline when people visit site from other devices*/
+outline: none; /* Gets rid of blue outline when people visit site from other devices */
 }
