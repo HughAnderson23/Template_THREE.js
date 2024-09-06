@@ -13,4 +13,10 @@ npm run dev
 
 # Build for production in the dist/ directory
 npm run build
+
+# GSAP library for animation timelines
+npm install GSAP
+
+# Lil GUI for debuging
+npm install lil-gui
 ```
