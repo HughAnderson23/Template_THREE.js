@@ -1,4 +1,7 @@
-# myTHREEjsTemplate
+# Template_THREE.js
+
+THREE.js template I've created that will let me construct a scene to quickly test controllers, cameras, materials, textures, 3d objects and lighting.
+
 
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).
